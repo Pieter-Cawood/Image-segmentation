@@ -1,6 +1,8 @@
 # Image-segmentation
 Background Segmentation Gaussian Mixture Models &amp; Deep Learning
 
+# Siraj code
+https://github.com/llSourcell/Gaussian_Mixture_Models/blob/master/intro_to_gmm_%26_em.ipynb
 
 ## Gaussian Mixture Model (GMM)
 
