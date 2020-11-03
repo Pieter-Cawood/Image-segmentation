@@ -1,5 +1,9 @@
 # Image-segmentation
-Background Segmentation Gaussian Mixture Models &amp; Deep Learning
+Background Segmentation Gaussian Mixture Models &amp; Deep Learning.
+
+You will need to implement these models as described below, and both train and analyse them using our labelled
+dataset. You will then need to write a 4 – 6 page report on your findings using the IEEE proceedings doublecolumn LATEX template. You will also have to write a 1 page reflection discussing your experience of the
+puzzle-solving process.
 
 ## Gaussian Mixture Model (GMM)
 
