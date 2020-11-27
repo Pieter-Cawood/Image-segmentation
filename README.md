@@ -1,5 +1,6 @@
 # Image-segmentation
-Background Segmentation using a Gaussian Mixture Models &amp; VGG16/UNet Deep Learning model.
+Background Segmentation using a Gaussian Mixture Models &amp; VGG16/UNet Deep Learning model. Corner detection additionally implemented
+for the deep learning model.
 
 ## Gaussian Mixture Model (GMM)
 GMM model implemented from first principles. The GMM attempts to cluster hand-crafted features to 
